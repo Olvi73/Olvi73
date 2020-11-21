@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Olvi73/Olvi73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,10 +12,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Hello there 👋
+- **🤔 My GitHub stats ...**  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Olvi73&count_private=true&show_icons=true&theme=dracula)  
+<img align="right" alt="gif" src="https://raw.githubusercontent.com/Olvi73/Olvi73/main/pic/code.gif" />
 
-### 🌱 I’m currently learning ...  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Olvi73&layout=compact&theme=dracula)  
-
-### 🔭 I’m currently working on ...  
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Olvi73&theme=dracula)
+- **🌱 I’m currently learning ...** 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Olvi73&theme=dracula)  
+&emsp;  
+&emsp;  
+- **🔭 I’m currently working on ...**  
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Olvi73&layout=compact&theme=dracula)
