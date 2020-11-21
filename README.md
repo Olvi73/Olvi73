@@ -23,3 +23,5 @@ Here are some ideas to get you started:
 &emsp;  
 - 🔭 **I’m currently working on ...**  
 ![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Olvi73&layout=compact&theme=dracula)
+
+<img src="https://img.shields.io/badge/Supported%20by-GitHub%20Readme%20Stats%20%E2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/>
