@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <img align="right" alt="gif" src="https://raw.githubusercontent.com/Olvi73/Olvi73/main/pic/code.gif" />
 
 ### 🌱 I’m currently learning ... 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Olvi73&theme=dracula)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Olvi73&exclude_repo=Olvi73.github.io&theme=dracula)  
 
 ### 🔭 I’m currently working on ...  
 ![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Olvi73&layout=compact&theme=dracula)
