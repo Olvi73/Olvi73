@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Olvi73&count_private=true&show_icons=true&theme=dracula)  
 <img align="right" alt="gif" src="https://raw.githubusercontent.com/Olvi73/Olvi73/main/pic/code.gif" />
 
-### :expressionless: I’m currently learning ... 
+### ✍ I’m currently using ... 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Olvi73&exclude_repo=Olvi73.github.io&theme=dracula)  
 
 <!--
