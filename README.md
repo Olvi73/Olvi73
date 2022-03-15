@@ -15,7 +15,10 @@ Here are some ideas to get you started:
 # Hello there 👋
 ### 🤔 My GitHub stats ... 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Olvi73&count_private=true&show_icons=true&theme=dracula)  
+
+<!--
 <img align="right" alt="gif" src="https://raw.githubusercontent.com/Olvi73/Olvi73/main/pic/code.gif" />
+-->
 
 ### ✍ I’m currently using ... 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Olvi73&hide=javascript,css&exclude_repo=Olvi73.github.io&theme=dracula)  
@@ -25,6 +28,5 @@ Here are some ideas to get you started:
 ![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Olvi73&theme=dracula)
 -->
 
-<!--
 <img src="https://img.shields.io/badge/Supported%20by-GitHub%20Readme%20Stats%20-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/>
--->
+
